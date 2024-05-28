@@ -12,8 +12,10 @@ body{
     width: 384px;
     background-color: #ffffff;
     border-radius: 16px;
-    margin-top: 80px;
-    border: 2px solid black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 1px solid black;
+    box-shadow: 10px 10px;
 }
 .img{
     height:200px;
