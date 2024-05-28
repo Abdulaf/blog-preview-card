@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: #F4D04E;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.container{
+    height: 522px;
+    width: 384px;
+    background-color: #ffffff;
+    border-radius: 14px;
+    margin-top: 80px;
+    border: 2px solid black;
+}
