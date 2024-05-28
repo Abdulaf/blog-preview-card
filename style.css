@@ -1,5 +1,6 @@
 *{
     margin: 0px;
+    font-family: arial;
 }
 body{
     background-color: #F4D04E;
@@ -21,4 +22,19 @@ body{
     background-size: cover;
     margin: 24px;
     border-radius: 16px;
+}
+.box1{
+    height:194px;
+    width:336px;
+
+}
+.div1{
+    height:29px;
+    width: 82px;
+    background-color: #F4D04E;
+    margin: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
 }
