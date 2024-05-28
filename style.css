@@ -42,3 +42,22 @@ body{
     margin: 24px 24px 12px;
     width: 336px;
 }
+.box2{
+    height:32px;
+    width: 129px;
+    margin: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    b{
+        font-size: 0.8rem;
+        font-weight: bolder;
+    }
+}
+.pr{
+    height: 32px;
+    width: 32px;
+    background-image:url(image-avatar.webp);
+    background-size: cover;
+    margin-right: 12px;
+}
