@@ -63,3 +63,6 @@ body{
     background-size: cover;
     margin-right: 12px;
 }
+h3:hover{
+    color: #F4D04E;
+}
